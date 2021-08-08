@@ -1,0 +1,13 @@
+C:\Users\RAYA\source\c# advanced\delegates\obj\Debug\netcoreapp3.1\delegates.AssemblyInfoInputs.cache
+C:\Users\RAYA\source\c# advanced\delegates\obj\Debug\netcoreapp3.1\delegates.AssemblyInfo.cs
+C:\Users\RAYA\source\c# advanced\delegates\obj\Debug\netcoreapp3.1\delegates.csproj.CoreCompileInputs.cache
+C:\Users\RAYA\source\c# advanced\delegates\bin\Debug\netcoreapp3.1\delegates.exe
+C:\Users\RAYA\source\c# advanced\delegates\bin\Debug\netcoreapp3.1\delegates.deps.json
+C:\Users\RAYA\source\c# advanced\delegates\bin\Debug\netcoreapp3.1\delegates.runtimeconfig.json
+C:\Users\RAYA\source\c# advanced\delegates\bin\Debug\netcoreapp3.1\delegates.runtimeconfig.dev.json
+C:\Users\RAYA\source\c# advanced\delegates\bin\Debug\netcoreapp3.1\delegates.dll
+C:\Users\RAYA\source\c# advanced\delegates\bin\Debug\netcoreapp3.1\delegates.pdb
+C:\Users\RAYA\source\c# advanced\delegates\obj\Debug\netcoreapp3.1\delegates.dll
+C:\Users\RAYA\source\c# advanced\delegates\obj\Debug\netcoreapp3.1\delegates.pdb
+C:\Users\RAYA\source\c# advanced\delegates\obj\Debug\netcoreapp3.1\delegates.genruntimeconfig.cache
+C:\Users\RAYA\source\c# advanced\delegates\obj\Debug\netcoreapp3.1\delegates.csproj.AssemblyReference.cache
